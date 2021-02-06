@@ -1,6 +1,3 @@
-title: Welcome to Robert Lennon's homepage!
-
-
 ## Robert Lennon
 
 You can use the [editor on GitHub](https://github.com/robertlennon50/robertlennon.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
