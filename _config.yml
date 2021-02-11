@@ -90,19 +90,19 @@ content:
         title: MSc Linguistics
         caption: 2013
         sub_title: University of Glasgow
-        quote: >
-          Supervisors: Dr Rachel Smith, Professor Jane Stuart-Smith
+        #quote: >
+        #  Supervisors: Dr Rachel Smith, Professor Jane Stuart-Smith
         description: | # this will include new lines to allow paragraphs
           Thesis title: The effect of experience in cross-dialect perception: Parsing /r/ in Glaswegian
 
       - layout: left
-        title: MSc Linguistics
-        caption: 2013
+        title: MA (Hons) English Language
+        caption: 2012
         sub_title: University of Glasgow
-        quote: >
-          Supervisors: Dr Rachel Smith, Professor Jane Stuart-Smith
+        #quote: >
+        #  Supervisors: Dr Rachel Smith, Professor Jane Stuart-Smith
         description: | # this will include new lines to allow paragraphs
-          Thesis title: The effect of experience in cross-dialect perception: Parsing /r/ in Glaswegian
+          Dissertation title: real-time sociophonetic study of postvocalic /r/ in the speech of schoolchildren in Bearsden
 
 
 
