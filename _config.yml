@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a linguistics researcher at the [Phonetics Lab](http://wp.lancs.ac.uk/phonetics/) at [Lancaster University](https://www.lancaster.ac.uk/). My research is in sociolinguistics, phonetics and speech perception, and I'm interested in how the social aspects of speech communities affect how speech sounds are produced and perceived.
+  I'm a Linguistics Researcher at the [Phonetics Lab](http://wp.lancs.ac.uk/phonetics/) at [Lancaster University](https://www.lancaster.ac.uk/). My research is in sociolinguistics, phonetics and speech perception, and I'm interested in how the social aspects of speech communities affect how speech sounds are produced and perceived.
   
   My expertise is in Scottish English (especially phonetic variation in Glasgow), rhoticity, and cross-dialect perception.
 
@@ -93,7 +93,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: PhD English Language and Linguistics
+        title: PhD Linguistics
         caption: 2019
         sub_title: University of Glasgow
         quote: >
@@ -102,7 +102,7 @@ content:
           Thesis title: [Experience and Learning in Cross-dialect perception](http://theses.gla.ac.uk/74370/)
 
       - layout: left
-        title: MSc English Language and Linguistics
+        title: MSc Linguistics
         caption: 2013
         sub_title: University of Glasgow
         quote: >
