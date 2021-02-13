@@ -132,20 +132,20 @@ content:
             We're using a variety of methods to investigate residual rhoticity in Blackburn, Lancashire (where many speakers still pronounce the /r/ in e.g. 'car', 'third'), examining the mechanisms by which it is changing over time.
 
 
+![Visitor Count](https://profile-counter.glitch.me/robertlennon50.github.io/count.svg)
 
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-      
-      Look at this cool image of Scottish mountains
-      
-      ![Mountains](/images/Isle_of_Skye_Scotland.jpg "Mountains")
+#  - title: A Little More About Me
+#    layout: text
+#    content: | # this will include new lines to allow paragraphs
+#      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#      - Rock climbing
+#      - Gaming
+#      - Knitting
+#      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+#      
+#      Look at this cool image of Scottish mountains
+#      
+#      ![Mountains](/images/Isle_of_Skye_Scotland.jpg "Mountains")
 
 # Footer
 footer_show_references: true
