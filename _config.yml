@@ -171,15 +171,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        #title: Research Assistant
         sub_title: Phonetics Lab, Aarhus University
         caption: May 2021
         description: | # this will include new lines to allow paragraphs
-            The perception of variable rhoticity in Blackburn, Lancashire: Evidence from an online study. ***Invited speaker***
+            The perception of variable rhoticity in Blackburn, Lancashire: Evidence from an online study.   ***(Invited speaker)***
 
-#Acoustics and perception of Glaswegian /r/. \hfill{\sl Phonetics Lab meeting, Lancaster University} Invited speaker   November 2020
+      - layout: left
+        sub_title: Phonetics Lab, Lancaster University
+        caption: November 2020
+        description: | # this will include new lines to allow paragraphs
+            Acoustics and perception of Glaswegian /r/.   ***(Invited speaker)***
 
-#\href{http://eprints.whiterose.ac.uk/159167/1/SpeechProsody_4.pdf}{Listeners' sensitivity to syllable complexity in speech tempo perception}. (Co-author)\\{\sl Speech Prosody 10, University of Tokyo} \hfill{\bf May 2020 (online)}
+      - layout: left
+        sub_title: Speech Prosody 10, University of Tokyo
+        caption: May 2020
+        description: | # this will include new lines to allow paragraphs
+            [Listeners' sensitivity to syllable complexity in speech tempo perception.](http://eprints.whiterose.ac.uk/159167/1/SpeechProsody_4.pdf)    ***(Co-author)***
 
 #Quantifying speech tempo: Does the choice of measurement matter?\\{\sl BAAP, University of York} \hfill{\bf April 2020 (postponed)}
 
