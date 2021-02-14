@@ -51,6 +51,8 @@ about_content: | # this will include new lines to allow paragraphs
   I'm a Linguistics Researcher at the [Phonetics Lab](http://wp.lancs.ac.uk/phonetics/) at [Lancaster University](https://www.lancaster.ac.uk/). My research is in sociolinguistics, phonetics and speech perception, and I'm interested in how the social aspects of speech communities affect how speech sounds are produced and perceived.
   
   My expertise is in Scottish English (especially phonetic variation in Glasgow), rhoticity, and cross-dialect perception. I also have some knowledge of perception of speech tempo and phonetic reduction.
+  
+  Click [here](CV/Robert_Lennon_CV.pdf) for my CV.
 
   I am most skilled in: <mark>Sociolinguistics teaching</mark>, <mark>R</mark>, <mark>Praat</mark> and <mark>Perception experiments</mark>
 
@@ -84,7 +86,7 @@ content:
         #quote: >
         #  Supervisors: [Dr Rachel Smith](https://www.gla.ac.uk/schools/critical/staff/rachelsmith/), [Professor Jane Stuart-Smith](https://www.gla.ac.uk/schools/critical/staff/janestuart-smith/)
         description: | # this will include new lines to allow paragraphs
-          Thesis title: [Experience and Learning in Cross-dialect perception: Derhoticised /r/ in Glasgow](http://theses.gla.ac.uk/74370/)
+          Thesis: [***Experience and Learning in Cross-dialect perception: Derhoticised /r/ in Glasgow***](http://theses.gla.ac.uk/74370/)
 
       - layout: left
         title: MSc Linguistics
@@ -93,7 +95,7 @@ content:
         #quote: >
         #  Supervisors: Dr Rachel Smith, Professor Jane Stuart-Smith
         description: | # this will include new lines to allow paragraphs
-          Thesis title: The effect of experience in cross-dialect perception: Parsing /r/ in Glaswegian
+          Thesis: ***The effect of experience in cross-dialect perception: Parsing /r/ in Glaswegian***
 
       - layout: left
         title: MA English Language
@@ -102,8 +104,7 @@ content:
         #quote: >
         #  Supervisors: Dr Rachel Smith, Professor Jane Stuart-Smith
         description: | # this will include new lines to allow paragraphs
-          Dissertation title: A real-time sociophonetic study of postvocalic /r/ in the speech of schoolchildren in Bearsden
-
+          Dissertation: ***A real-time sociophonetic study of postvocalic /r/ in the speech of schoolchildren in Bearsden***
 
 
   - title: Research Experience # Title for the section
@@ -111,29 +112,30 @@ content:
     content:
       - layout: left
         title: Research Associate
-        #link: boringcompany.com
-        # link_text: boringcompany.com
         sub_title: Lancaster University
         caption: 2020 - present
-        #quote: >
-        #  Changing /r/ accents? Towards a sociophonological understanding of sound change.
         description: | # this will include new lines to allow paragraphs
-            ***Changing /r/ accents? Towards a sociophonological understanding of sound change.***
+            ***Changing /r/ accents? Towards a sociophonological understanding of sound change***
             
-            We're using a variety of methods to investigate residual rhoticity in Blackburn, Lancashire (where many speakers still pronounce the /r/ in e.g. 'car', 'third'), examining the mechanisms by which it is changing over time.
+            We're using a variety of methods to investigate residual rhoticity in Blackburn, Lancashire (where many speakers still pronounce the /r/ in words like *'car'* and *'third'*), examining the mechanisms by which it is changing over time.
 
       - layout: left
         title: Research Fellow
-        #link: boringcompany.com
-        # link_text: boringcompany.com
         sub_title: University of Leeds
         caption: 2017 - 2020
-        #quote: >
-        #  Changing /r/ accents? Towards a sociophonological understanding of sound change.
         description: | # this will include new lines to allow paragraphs
-            ***Speech tempo perception and missing sounds.***
+            ***Speech tempo perception and missing sounds***
             
             In this project we investigated the link between laboratory measurements of speech tempo and how listeners perceive speaking rate. I designed and ran a suite of speech perception experiments, maintained a large phonetically-aligned corpus, and contributed to analysis, conference presentations and journal submissions.
+
+      - layout: left
+        title: Research Assistant
+        sub_title: University of Glasgow
+        caption: 2012 - 2017
+        description: | # this will include new lines to allow paragraphs
+            ***Speech tempo perception and missing sounds***
+            
+            During my Phd I worked on 
 
 
 #![Visitor Count](https://profile-counter.glitch.me/robertlennon50.github.io/count.svg)
