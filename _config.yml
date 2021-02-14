@@ -52,9 +52,9 @@ about_content: | # this will include new lines to allow paragraphs
   
   My expertise is in Scottish English (especially phonetic variation in Glasgow), rhoticity, and cross-dialect perception. I also have some knowledge of perception of speech tempo and phonetic reduction.
   
-  Click [here](CV/Robert_Lennon_CV.pdf) for my CV.
-
   I am most skilled in: <mark>Sociolinguistics teaching</mark>, <mark>R</mark>, <mark>Praat</mark> and <mark>Perception experiments</mark>
+  
+  Click [here](CV/Robert_Lennon_CV.pdf) for my CV.
 
 content:
 #  - title: Projects # Title for the section
@@ -117,7 +117,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             ***Changing /r/ accents? Towards a sociophonological understanding of sound change***
             
-            We're using a variety of methods to investigate residual rhoticity in Blackburn, Lancashire (where many speakers still pronounce the /r/ in words like *'car'* and *'third'*), examining the mechanisms by which it is changing over time.
+            We're using a variety of methods to investigate residual rhoticity in Blackburn, Lancashire (where many speakers still pronounce the /r/ in words like *car* and *third*), examining the mechanisms by which it is changing over time.
 
       - layout: left
         title: Research Fellow
@@ -133,9 +133,10 @@ content:
         sub_title: University of Glasgow
         caption: 2012 - 2017
         description: | # this will include new lines to allow paragraphs
-            ***Speech tempo perception and missing sounds***
-            
-            During my Phd I worked on 
+            While completing my Phd I worked on multiple funded projects run by researchers from different universities. Tasks included:
+            - Statistical analysis, transcription work
+            - Writing contributions to research outputs
+            - Participant recruitment and recording
 
 
 #![Visitor Count](https://profile-counter.glitch.me/robertlennon50.github.io/count.svg)
