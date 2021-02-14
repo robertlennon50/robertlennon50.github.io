@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   My expertise is in Scottish English (especially phonetic variation in Glasgow), rhoticity, and cross-dialect perception. I also have some knowledge of perception of speech tempo and phonetic reduction.
 
-  I am most skilled in: <mark>R</mark>, <mark>Praat</mark> and <mark>Perception experiments</mark>
+  I am most skilled in: <mark>Sociolinguistics teaching</mark>, <mark>R</mark>, <mark>Praat</mark> and <mark>Perception experiments</mark>
 
 content:
 #  - title: Projects # Title for the section
@@ -79,26 +79,26 @@ content:
     content:
       - layout: left
         title: PhD Linguistics
-        caption: 2019
-        sub_title: University of Glasgow
+        #caption: 2019
+        sub_title: University of Glasgow, 2019
         #quote: >
         #  Supervisors: [Dr Rachel Smith](https://www.gla.ac.uk/schools/critical/staff/rachelsmith/), [Professor Jane Stuart-Smith](https://www.gla.ac.uk/schools/critical/staff/janestuart-smith/)
         description: | # this will include new lines to allow paragraphs
-          Thesis title: [Experience and Learning in Cross-dialect perception](http://theses.gla.ac.uk/74370/)
+          Thesis title: [Experience and Learning in Cross-dialect perception: Derhoticised /r/ in Glasgow](http://theses.gla.ac.uk/74370/)
 
       - layout: left
         title: MSc Linguistics
-        caption: 2013
-        sub_title: University of Glasgow
+        #caption: 2013
+        sub_title: University of Glasgow, 2013
         #quote: >
         #  Supervisors: Dr Rachel Smith, Professor Jane Stuart-Smith
         description: | # this will include new lines to allow paragraphs
           Thesis title: The effect of experience in cross-dialect perception: Parsing /r/ in Glaswegian
 
       - layout: left
-        title: MA (Hons) English Language
-        caption: 2012
-        sub_title: University of Glasgow
+        title: MA English Language
+        #caption: 2012
+        sub_title: University of Glasgow, 2012
         #quote: >
         #  Supervisors: Dr Rachel Smith, Professor Jane Stuart-Smith
         description: | # this will include new lines to allow paragraphs
@@ -111,18 +111,18 @@ content:
     content:
       - layout: left
         title: Research Associate
-        link: boringcompany.com
+        #link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Lancaster University
-        caption: September 2020 - Present
+        dates: September 2020 - Present
         quote: >
           Changing /r/ accents? Towards a sociophonological understanding of sound change.
         description: | # this will include new lines to allow paragraphs
             We're using a variety of methods to investigate residual rhoticity in Blackburn, Lancashire (where many speakers still pronounce the /r/ in e.g. 'car', 'third'), examining the mechanisms by which it is changing over time.
 
       - layout: left
-        title: Research Associate
-        link: boringcompany.com
+        title: Research Fellow
+        #link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Lancaster University
         caption: September 2020 - Present
