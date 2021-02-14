@@ -149,6 +149,18 @@ content:
         description: | # this will include new lines to allow paragraphs
             ***Publication 1*** Text
 
+  - title: Teaching # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Teaching title 1
+        #sub_title: Lancaster University
+        #caption: 2020 - present
+        description: | # this will include new lines to allow paragraphs
+            ***Teaching*** Text
+
+
+
 #![Visitor Count](https://profile-counter.glitch.me/robertlennon50.github.io/count.svg)
 
 #<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
