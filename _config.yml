@@ -118,7 +118,7 @@ content:
         #quote: >
         #  Changing /r/ accents? Towards a sociophonological understanding of sound change.
         description: | # this will include new lines to allow paragraphs
-            ``Changing /r/ accents? Towards a sociophonological understanding of sound change.''
+            ''Check apostrophes'' "Changing /r/ accents? Towards a sociophonological understanding of sound change."
             
             We're using a variety of methods to investigate residual rhoticity in Blackburn, Lancashire (where many speakers still pronounce the /r/ in e.g. 'car', 'third'), examining the mechanisms by which it is changing over time.
 
