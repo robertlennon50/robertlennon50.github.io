@@ -143,62 +143,158 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        #title: Research Associate
-        #sub_title: Lancaster University
-        #caption: 2020 - present
         description: | # this will include new lines to allow paragraphs
             Plug, L., Lennon, R. & Gold, E. (forthcoming). On quantifying speech tempo: Articulation rates' inter-correlations and discriminating powers in an English speech corpus. *Speech Communication*.
 
       - layout: left
-        #title: Research Associate
-        #sub_title: Lancaster University
-        #caption: 2020 - present
         description: | # this will include new lines to allow paragraphs
             Plug, L., Smith, R., & Lennon, R. (2020). [Listeners' sensitivity to syllable complexity in speech tempo perception.](http://eprints.whiterose.ac.uk/159167/1/SpeechProsody_4.pdf) *Proceedings of the 10th International Conference on Speech Prosody*. Tokyo: University of Tokyo.
 
       - layout: left
-        #title: Research Associate
-        #sub_title: Lancaster University
-        #caption: 2020 - present
         description: | # this will include new lines to allow paragraphs
             Lennon, R., Gold, E. & Plug, L. (2019). [A comparison of multiple speech tempo measures: Inter-correlations and discriminating power.](https://icphs2019.org/icphs2019-fullpapers/pdf/full-paper_637.pdf) *Proceedings of the 19th ICPhS*. Melbourne: University of Melbourne.
 
       - layout: left
-        #title: Research Associate
-        #sub_title: Lancaster University
-        #caption: 2020 - present
         description: | # this will include new lines to allow paragraphs
             Plug, L., Smith, R. & Lennon, R. (2019). [Measured and perceived speech tempo: Canonical vs surface syllable and phone rates.](https://icphs2019.org/icphs2019-fullpapers/pdf/full-paper_611.pdf) *Proceedings of the 19th ICPhS*. Melbourne: University of Melbourne.
 
       - layout: left
-        #title: Research Associate
-        #sub_title: Lancaster University
-        #caption: 2020 - present
         description: | # this will include new lines to allow paragraphs
             Lennon, R., Smith, R. & Stuart-Smith, J. (2015). [An acoustic investigation of postvocalic /r/ variants in two sociolects of Glaswegian.](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS1019.pdf) *Proceedings of the 18th ICPhS*. Glasgow: University of Glasgow.
 
       - layout: left
-        #title: Research Associate
-        #sub_title: Lancaster University
-        #caption: 2020 - present
         description: | # this will include new lines to allow paragraphs
             Stuart-Smith, J., Lennon, R., MacDonald, R., Robertson, D., Soskuthy, M., Jose, B. & Evers, L. (2015). [A dynamic acoustic view of real-time change in word-final liquids in spontaneous Glaswegian.](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS1028.pdf) *Proceedings of the 18th ICPhS*. Glasgow: University of Glasgow.
 
 
-
-
-
-
-
-  - title: Teaching # Title for the section
+  - title: Selected talks # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Teaching title 1
-        #sub_title: Lancaster University
-        #caption: 2020 - present
+        #title: Research Assistant
+        sub_title: Phonetics Lab, Aarhus University
+        caption: May 2021
         description: | # this will include new lines to allow paragraphs
-            ***Teaching*** Text
+            The perception of variable rhoticity in Blackburn, Lancashire: Evidence from an online study. ***Invited speaker***
+
+#Acoustics and perception of Glaswegian /r/. \hfill{\sl Phonetics Lab meeting, Lancaster University} Invited speaker   November 2020
+
+#\href{http://eprints.whiterose.ac.uk/159167/1/SpeechProsody_4.pdf}{Listeners' sensitivity to syllable complexity in speech tempo perception}. (Co-author)\\{\sl Speech Prosody 10, University of Tokyo} \hfill{\bf May 2020 (online)}
+
+#Quantifying speech tempo: Does the choice of measurement matter?\\{\sl BAAP, University of York} \hfill{\bf April 2020 (postponed)}
+
+#%https://www.mpi.nl/page/r3-poster-program
+#Speech tempo perception and deletion: Evidence from a listening experiment.\\ {\sl Rate and Rhythm in Speech Recognition, Max Planck Institute for Psycholinguistics,\\ Nijmegen} \hfill{\bf December 2019}
+
+#\href{https://uklvc12.qmul.ac.uk/wp-content/uploads/2019/09/TomeLouridoetal_UKLVC12.pdf}{The effect of regional variation on speech processing: Evidence from an eye-tracking experiment}. (Co-author) {\sl UKLVC 12, Queen Mary University/University College London} \hfill{\bf September 2019}
+
+#\href{https://icphs2019.org/icphs2019-fullpapers/pdf/full-paper_637.pdf}{A comparison of multiple speech tempo measures: Inter-correlations and discriminating power}. {\sl 19th International Congress of Phonetic Sciences, Melbourne} \hfill{\bf August 2019}
+
+#\href{https://icphs2019.org/icphs2019-fullpapers/pdf/full-paper_611.pdf}{Measured and perceived speech tempo: Canonical vs surface syllable and phone rates}.\\(Co-author) {\sl 19th International Congress of Phonetic Sciences, Melbourne} \hfill{\bf August 2019}
+
+#Comparing alternative speech tempo measures: Inter-correlations and discriminating powers. {\sl 28th International Association for Forensic Phonetics and Acoustics, Istanbul} \hfill{\bf July 2019}
+
+#%https://www.york.ac.uk/language/news/events/talks/colloquia/2019-spring-week7/
+#Speech tempo measurement and perception \\{\sl Linguistics Colloquium, University of York} \hfill{\bf February 2019}
+#\begin{itemize}\itemsep -.25pt
+#	\item Invited speaker (co-presented with Leendert Plug)
+#\end{itemize}
+
+#%https://www.ucl.ac.uk/pals/sites/pals/files/ssf_rlennon.pdf
+#Experience and learning in cross-dialect perception: Ambiguous /r/ in Glasgow. \\{\sl Speech Science Forum seminar, University College London} \hfill{\bf October 2018}
+#\begin{itemize}\itemsep -.25pt
+#	\item Invited speaker
+#\end{itemize}
+
+#%https://blogs.kent.ac.uk/baap/files/2018/03/BAAP-2018_Lennon.pdf
+#Perception of Glaswegian rhoticity suffers in challenging listening conditions.\\{\sl British Association of Academic Phoneticians, University of Kent} \hfill{\bf April 2018}
+#\begin{itemize}\itemsep -.25pt
+#	\item Invited session chair: Speech Perception
+#\end{itemize}
+
+#Fussed, second, thud: Mouse tracking reveals implicit perception of ambiguous /r/ in Glasgow.\\{\sl English Language \& Linguistics Research Seminar, University of Glasgow} \hfill{\bf March 2017}
+#\begin{itemize}\itemsep -.25pt
+#	\item Invited speaker
+#\end{itemize}
+
+#Glasgow Smiles Better? Long-term and short-term adaptation to accents. {\sl Human Language\\Processing Lab presentation, University of Rochester} \hfill{\bf February 2017}
+#\begin{itemize}\itemsep -.25pt
+#	\item Invited speaker (co-presented with Rachel Smith)
+#\end{itemize}
+
+#\href{http://intro2psycholing.net/labphon15/long_abstracts/LabPhon15_Revised_abstract_250.pdf}{Ambiguous rhoticity in Glasgow: Short term exposure promotes perceptual adaptation for\\ experienced and inexperienced listeners.} {\sl LabPhon15, Cornell University} \hfill{\bf July 2016}
+#\begin{itemize}\itemsep -.25pt
+#	\item National Science Foundation travel award (\$400)
+#\end{itemize}
+
+#Derhoticisation in Glasgow: Do listeners adapt after short term exposure? {\sl `r-atics 5,\\ Fryske Akademy, Leeuwarden} \hfill{\bf May 2016}
+
+#%http://wp.lancs.ac.uk/phonetics/files/2015/08/BAAP_abstracts.pdf
+#Short term learning of derhoticised /r/ in Glasgow: Adaptation occurs for experienced and\\inexperienced listeners. {\sl British Association of Academic Phoneticians,\\ Lancaster University} \hfill{\bf March 2016}
+
+#%http://wp.lancs.ac.uk/phonetics/files/2015/08/BAAP_abstracts.pdf
+#Is gender a factor in real-time acoustic change in coda liquids in Glasgow? (Co-author)\\ {\sl British Association of Academic Phoneticians, Lancaster University} \hfill{\bf March 2016}
+
+#\href{https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS1019.pdf}{An acoustic investigation of postvocalic /r/ variants in two sociolects of Glaswegian.}\\ {\sl 18th International Congress of Phonetic Sciences, Glasgow} \hfill{\bf August 2015}
+
+#\href{https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS1028.pdf}{A dynamic acoustic view of real-time change in word-final liquids in spontaneous Glaswegian.}\\(Co-author) {\sl 18th International Congress of Phonetic Sciences, Glasgow} \hfill{\bf August 2015}
+
+#The role of experience in accent perception: Parsing /r/ in Glaswegian. {\sl English Language\\ \& Linguistics Research Seminar, University of Glasgow} \hfill{\bf October 2014}
+#\begin{itemize}\itemsep -.25pt
+#	\item Invited speaker
+#\end{itemize}
+
+#The effect of exposure in cross-dialect perception: Hearing ambiguous /r/ variants in\\ Glaswegian. {\sl Architectures and Mechanisms for Language Processing,\\ University of Edinburgh} \hfill{\bf September 2014}
+
+#Increased exposure can aid perception of ambiguous /r/ variants in Glasgow.\\ {\sl British Association of Academic Phoneticians, University of Oxford} \hfill{\bf April 2014}
+#\begin{itemize}\itemsep -.25pt
+#	\item Joint winner of Eug\'enie Henderson prize for best oral presentation
+#\end{itemize}
+
+#The effect of experience in cross-dialect perception: Parsing /r/ in Glaswegian.\\ {\sl `r-atics 4, GIPSA-Lab, Grenoble} \hfill{\bf October 2013}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#  - title: Teaching # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content:
+#      - layout: left
+#        title: Teaching title 1
+#        #sub_title: Lancaster University
+#        #caption: 2020 - present
+#        description: | # this will include new lines to allow paragraphs
+#            ***Teaching*** Text
 
 
 
