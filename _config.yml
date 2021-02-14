@@ -147,7 +147,48 @@ content:
         #sub_title: Lancaster University
         #caption: 2020 - present
         description: | # this will include new lines to allow paragraphs
-            ***Publication 1*** Text
+            Plug, L., Lennon, R. & Gold, E. (forthcoming). On quantifying speech tempo: Articulation rates' inter-correlations and discriminating powers in an English speech corpus. *Speech Communication*.
+
+      - layout: left
+        #title: Research Associate
+        #sub_title: Lancaster University
+        #caption: 2020 - present
+        description: | # this will include new lines to allow paragraphs
+            Plug, L., Smith, R., & Lennon, R. (2020). [Listeners' sensitivity to syllable complexity in speech tempo perception.](http://eprints.whiterose.ac.uk/159167/1/SpeechProsody_4.pdf) *Proceedings of the 10th International Conference on Speech Prosody*. Tokyo: University of Tokyo.
+
+      - layout: left
+        #title: Research Associate
+        #sub_title: Lancaster University
+        #caption: 2020 - present
+        description: | # this will include new lines to allow paragraphs
+            Lennon, R., Gold, E. & Plug, L. (2019). [A comparison of multiple speech tempo measures: Inter-correlations and discriminating power.](https://icphs2019.org/icphs2019-fullpapers/pdf/full-paper_637.pdf) *Proceedings of the 19th ICPhS*. Melbourne: University of Melbourne.
+
+      - layout: left
+        #title: Research Associate
+        #sub_title: Lancaster University
+        #caption: 2020 - present
+        description: | # this will include new lines to allow paragraphs
+            Plug, L., Smith, R. & Lennon, R. (2019). [Measured and perceived speech tempo: Canonical vs surface syllable and phone rates.](https://icphs2019.org/icphs2019-fullpapers/pdf/full-paper_611.pdf) *Proceedings of the 19th ICPhS*. Melbourne: University of Melbourne.
+
+      - layout: left
+        #title: Research Associate
+        #sub_title: Lancaster University
+        #caption: 2020 - present
+        description: | # this will include new lines to allow paragraphs
+            Lennon, R., Smith, R. & Stuart-Smith, J. (2015). [An acoustic investigation of postvocalic /r/ variants in two sociolects of Glaswegian.](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS1019.pdf) *Proceedings of the 18th ICPhS*. Glasgow: University of Glasgow.
+
+      - layout: left
+        #title: Research Associate
+        #sub_title: Lancaster University
+        #caption: 2020 - present
+        description: | # this will include new lines to allow paragraphs
+            Stuart-Smith, J., Lennon, R., MacDonald, R., Robertson, D., Soskuthy, M., Jose, B. & Evers, L. (2015). [A dynamic acoustic view of real-time change in word-final liquids in spontaneous Glaswegian.](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS1028.pdf) *Proceedings of the 18th ICPhS*. Glasgow: University of Glasgow.
+
+
+
+
+
+
 
   - title: Teaching # Title for the section
     layout: list # Type of content section (list/text)
