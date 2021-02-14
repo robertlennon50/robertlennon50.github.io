@@ -142,7 +142,7 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         #title: Research Associate
         #sub_title: Lancaster University
         #caption: 2020 - present
