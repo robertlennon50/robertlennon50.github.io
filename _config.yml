@@ -113,7 +113,7 @@ content:
         title: Research Associate
         #link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Lancaster University
+        company: Lancaster University
         sub_title: 2020 - present
         #quote: >
         #  Changing /r/ accents? Towards a sociophonological understanding of sound change.
@@ -126,7 +126,7 @@ content:
         title: Research Fellow
         #link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: University of Leeds
+        company: University of Leeds
         sub_title: 2017 - 2020
         #quote: >
         #  Changing /r/ accents? Towards a sociophonological understanding of sound change.
