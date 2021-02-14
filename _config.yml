@@ -114,22 +114,26 @@ content:
         #link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Lancaster University
-        dates: September 2020 - Present
-        quote: >
-          Changing /r/ accents? Towards a sociophonological understanding of sound change.
+        sub_title: 2020 - present
+        #quote: >
+        #  Changing /r/ accents? Towards a sociophonological understanding of sound change.
         description: | # this will include new lines to allow paragraphs
+            ``Changing /r/ accents? Towards a sociophonological understanding of sound change.''
+            
             We're using a variety of methods to investigate residual rhoticity in Blackburn, Lancashire (where many speakers still pronounce the /r/ in e.g. 'car', 'third'), examining the mechanisms by which it is changing over time.
 
       - layout: left
         title: Research Fellow
         #link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Lancaster University
-        caption: September 2020 - Present
-        quote: >
-          Changing /r/ accents? Towards a sociophonological understanding of sound change.
+        sub_title: University of Leeds
+        sub_title: 2017 - 2020
+        #quote: >
+        #  Changing /r/ accents? Towards a sociophonological understanding of sound change.
         description: | # this will include new lines to allow paragraphs
-            We're using a variety of methods to investigate residual rhoticity in Blackburn, Lancashire (where many speakers still pronounce the /r/ in e.g. 'car', 'third'), examining the mechanisms by which it is changing over time.
+            ``Speech tempo perception and missing sounds.''
+            
+            In this project we investigated the between laboratory measurements of speech tempo and how listeners perceive speaking rate. I designed and ran a suite of speech perception experiments, maintained a large phonetically-aligned corpus, and contributed to analysis, conference presentations and journal submissions.
 
 
 #![Visitor Count](https://profile-counter.glitch.me/robertlennon50.github.io/count.svg)
