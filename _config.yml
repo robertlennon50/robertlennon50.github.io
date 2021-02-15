@@ -261,7 +261,7 @@ content:
             [Ambiguous rhoticity in Glasgow: Short term exposure promotes perceptual adaptation for experienced and inexperienced listeners.](talks/LennonLabPhon2016.pdf) *(National Science Foundation travel award, 400USD)*
 
       - layout: left
-        sub_title: `r-atics 5, Fryske Akademy, Leeuwarden
+        sub_title: R-atics 5, Fryske Akademy, Leeuwarden
         caption: May 2016
         description: | # this will include new lines to allow paragraphs
             Derhoticisation in Glasgow: Do listeners adapt after short term exposure?
@@ -297,7 +297,7 @@ content:
 #            The role of experience in accent perception: Parsing /r/ in Glaswegian. ***(Invited speaker)***
 
       - layout: left
-        sub_title: AMLaP, University of Edinburgh
+        sub_title: AMLaP 20, University of Edinburgh
         caption: September 2014
         description: | # this will include new lines to allow paragraphs
             The effect of exposure in cross-dialect perception: Hearing ambiguous /r/ variants in Glaswegian.
@@ -309,7 +309,7 @@ content:
             Increased exposure can aid perception of ambiguous /r/ variants in Glasgow. ***(Eugenie Henderson prize, Best Oral Presentation)***
 
       - layout: left
-        sub_title: `r-atics 4, GIPSA-Lab, Grenoble
+        sub_title: R-atics 4, GIPSA-Lab, Grenoble
         caption: October 2013
         description: | # this will include new lines to allow paragraphs
             The effect of experience in cross-dialect perception: Parsing /r/ in Glaswegian.
