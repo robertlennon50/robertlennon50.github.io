@@ -204,7 +204,7 @@ content:
         sub_title: UKLVC 12, Queen Mary University/University College London
         caption: September 2019
         description: | # this will include new lines to allow paragraphs  #(https://uklvc12.qmul.ac.uk/wp-content/uploads/2019/09/TomeLouridoetal_UKLVC12.pdf)
-            [The effect of regional variation on speech processing: Evidence from an eye-tracking experiment.](talks/TomeLouridoetal_UKLVC12.pdf) *(Co-author)*
+            [The effect of regional variation on speech processing: Evidence from an eye-tracking experiment.](talks/TomeLouridoLennonEvansUKLVC12.pdf) *(Co-author)*
 
       - layout: left
         sub_title: ICPhS 19, Melbourne
@@ -239,8 +239,8 @@ content:
       - layout: left
         sub_title: BAAP, University of Kent
         caption: April 2018
-        description: | # this will include new lines to allow paragraphs
-            [Perception of Glaswegian rhoticity suffers in challenging listening conditions.](https://blogs.kent.ac.uk/baap/files/2018/03/BAAP-2018_Lennon.pdf) ***(Invited session chair: Speech Perception)***
+        description: | # this will include new lines to allow paragraphs  # (https://blogs.kent.ac.uk/baap/files/2018/03/BAAP-2018_Lennon.pdf)
+            [Perception of Glaswegian rhoticity suffers in challenging listening conditions.](talks/LennonBAAP2018.pdf) ***(Invited session chair: Speech Perception)***
 
 #      - layout: left
 #        sub_title: Linguistics Research Seminar, University of Glasgow
@@ -257,14 +257,14 @@ content:
       - layout: left
         sub_title: LabPhon15, Cornell University
         caption: July 2016
-        description: | # this will include new lines to allow paragraphs
-            [Ambiguous rhoticity in Glasgow: Short term exposure promotes perceptual adaptation for experienced and inexperienced listeners.](http://intro2psycholing.net/labphon15/long_abstracts/LabPhon15_Revised_abstract_250.pdf) *(National Science Foundation travel award, 400USD)*
+        description: | # this will include new lines to allow paragraphs  # (http://intro2psycholing.net/labphon15/long_abstracts/LabPhon15_Revised_abstract_250.pdf)
+            [Ambiguous rhoticity in Glasgow: Short term exposure promotes perceptual adaptation for experienced and inexperienced listeners.](talks/LennonLabPhon2016.pdf) *(National Science Foundation travel award, 400USD)*
 
-#      - layout: left
-#        sub_title: `r-atics 5, Fryske Akademy, Leeuwarden
-#        caption: May 2016
-#        description: | # this will include new lines to allow paragraphs
-#            Derhoticisation in Glasgow: Do listeners adapt after short term exposure?
+      - layout: left
+        sub_title: `r-atics 5, Fryske Akademy, Leeuwarden
+        caption: May 2016
+        description: | # this will include new lines to allow paragraphs
+            Derhoticisation in Glasgow: Do listeners adapt after short term exposure?
 
 #      - layout: left
 #        sub_title: BAAP, Lancaster University
@@ -278,17 +278,17 @@ content:
 #        description: | # this will include new lines to allow paragraphs
 #            [Is gender a factor in real-time acoustic change in coda liquids in Glasgow?](http://wp.lancs.ac.uk/phonetics/files/2015/08/BAAP_abstracts.pdf) *(Co-author)*
 
-#      - layout: left
-#        sub_title: ICPhS 18, Glasgow
-#        caption: August 2015
-#        description: | # this will include new lines to allow paragraphs
-#            [An acoustic investigation of postvocalic /r/ variants in two sociolects of Glaswegian.](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS1019.pdf)
+      - layout: left
+        sub_title: ICPhS 18, Glasgow
+        caption: August 2015
+        description: | # this will include new lines to allow paragraphs
+            [An acoustic investigation of postvocalic /r/ variants in two sociolects of Glaswegian.](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS1019.pdf)
 
-#      - layout: left
-#        sub_title: ICPhS 18, Glasgow
-#        caption: August 2015
-#        description: | # this will include new lines to allow paragraphs
-#            [A dynamic acoustic view of real-time change in word-final liquids in spontaneous Glaswegian.](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS1028.pdf) *(Co-author)*
+      - layout: left
+        sub_title: ICPhS 18, Glasgow
+        caption: August 2015
+        description: | # this will include new lines to allow paragraphs
+            [A dynamic acoustic view of real-time change in word-final liquids in spontaneous Glaswegian.](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS1028.pdf) *(Co-author)*
 
 #      - layout: left
 #        sub_title: Linguistics Research Seminar, University of Glasgow
@@ -296,23 +296,23 @@ content:
 #        description: | # this will include new lines to allow paragraphs
 #            The role of experience in accent perception: Parsing /r/ in Glaswegian. ***(Invited speaker)***
 
-#      - layout: left
-#        sub_title: AMLaP, University of Edinburgh
-#        caption: September 2014
-#        description: | # this will include new lines to allow paragraphs
-#            The effect of exposure in cross-dialect perception: Hearing ambiguous /r/ variants in Glaswegian.
+      - layout: left
+        sub_title: AMLaP, University of Edinburgh
+        caption: September 2014
+        description: | # this will include new lines to allow paragraphs
+            The effect of exposure in cross-dialect perception: Hearing ambiguous /r/ variants in Glaswegian.
 
-#      - layout: left
-#        sub_title: BAAP, University of Oxford
-#        caption: April 2014
-#        description: | # this will include new lines to allow paragraphs
-#            Increased exposure can aid perception of ambiguous /r/ variants in Glasgow. ***(Eugenie Henderson prize, Best Oral Presentation)***
+      - layout: left
+        sub_title: BAAP, University of Oxford
+        caption: April 2014
+        description: | # this will include new lines to allow paragraphs
+            Increased exposure can aid perception of ambiguous /r/ variants in Glasgow. ***(Eugenie Henderson prize, Best Oral Presentation)***
 
-#      - layout: left
-#        sub_title: `r-atics 4, GIPSA-Lab, Grenoble
-#        caption: October 2013
-#        description: | # this will include new lines to allow paragraphs
-#            The effect of experience in cross-dialect perception: Parsing /r/ in Glaswegian.
+      - layout: left
+        sub_title: `r-atics 4, GIPSA-Lab, Grenoble
+        caption: October 2013
+        description: | # this will include new lines to allow paragraphs
+            The effect of experience in cross-dialect perception: Parsing /r/ in Glaswegian.
 
 
 
