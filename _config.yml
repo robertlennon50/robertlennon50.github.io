@@ -198,13 +198,13 @@ content:
         sub_title: Rate and Rhythm in Speech Recognition, Max Planck Institute for Psycholinguistics, Nijmegen
         caption: December 2019
         description: | # this will include new lines to allow paragraphs
-            [Speech tempo perception and deletion: Evidence from a listening experiment.](https://www.mpi.nl/page/r3-poster-program)
+            [Speech tempo perception and deletion: Evidence from a listening experiment.](talks/LennonSmithPlugMPI2019.pdf) #(https://www.mpi.nl/page/r3-poster-program)
 
       - layout: left
         sub_title: UKLVC 12, Queen Mary University/University College London
         caption: September 2019
         description: | # this will include new lines to allow paragraphs
-            [The effect of regional variation on speech processing: Evidence from an eye-tracking experiment.](https://uklvc12.qmul.ac.uk/wp-content/uploads/2019/09/TomeLouridoetal_UKLVC12.pdf) *(Co-author)*
+            [The effect of regional variation on speech processing: Evidence from an eye-tracking experiment.](talks/TomeLouridoetal_UKLVC12.pdf) *(Co-author)* #(https://uklvc12.qmul.ac.uk/wp-content/uploads/2019/09/TomeLouridoetal_UKLVC12.pdf)
 
       - layout: left
         sub_title: ICPhS 19, Melbourne
