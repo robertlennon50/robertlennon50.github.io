@@ -174,13 +174,13 @@ content:
         sub_title: Phonetics Lab, Aarhus University
         caption: May 2021
         description: | # this will include new lines to allow paragraphs
-            The perception of variable rhoticity in Blackburn, Lancashire: Evidence from an online study.   ***(Invited speaker)***
+            The perception of variable rhoticity in Blackburn, Lancashire: Evidence from an online study. ***(Invited speaker)***
 
       - layout: left
         sub_title: Phonetics Lab, Lancaster University
         caption: November 2020
         description: | # this will include new lines to allow paragraphs
-            Acoustics and perception of Glaswegian /r/.   ***(Invited speaker)***
+            Acoustics and perception of Glaswegian /r/. ***(Invited speaker)***
 
       - layout: left
         sub_title: Speech Prosody 10, University of Tokyo
@@ -204,22 +204,22 @@ content:
         sub_title: UKLVC 12, Queen Mary University/University College London
         caption: September 2019
         description: | # this will include new lines to allow paragraphs
-            (https://uklvc12.qmul.ac.uk/wp-content/uploads/2019/09/TomeLouridoetal_UKLVC12.pdf)[The effect of regional variation on speech processing: Evidence from an eye-tracking experiment.] *(Co-author)*
+            [The effect of regional variation on speech processing: Evidence from an eye-tracking experiment.](https://uklvc12.qmul.ac.uk/wp-content/uploads/2019/09/TomeLouridoetal_UKLVC12.pdf) *(Co-author)*
 
       - layout: left
-        sub_title: 19th International Congress of Phonetic Sciences, Melbourne
+        sub_title: ICPhS 19, Melbourne
         caption: August 2019
         description: | # this will include new lines to allow paragraphs
             [A comparison of multiple speech tempo measures: Inter-correlations and discriminating power.](https://icphs2019.org/icphs2019-fullpapers/pdf/full-paper_637.pdf)
 
       - layout: left
-        sub_title: 19th International Congress of Phonetic Sciences, Melbourne
+        sub_title: ICPhS 19, Melbourne
         caption: August 2019
         description: | # this will include new lines to allow paragraphs
             [Measured and perceived speech tempo: Canonical vs surface syllable and phone rates.](https://icphs2019.org/icphs2019-fullpapers/pdf/full-paper_611.pdf) *(Co-author)*
 
       - layout: left
-        sub_title: 28th International Association for Forensic Phonetics and Acoustics, Istanbul
+        sub_title: IAFPA 28, Istanbul
         caption: July 2019
         description: | # this will include new lines to allow paragraphs
             Comparing alternative speech tempo measures: Inter-correlations and discriminating powers.
@@ -228,7 +228,7 @@ content:
         sub_title: Linguistics Colloquium, University of York
         caption: February 2019
         description: | # this will include new lines to allow paragraphs
-            [Speech tempo measurement and perception](https://www.york.ac.uk/language/news/events/talks/colloquia/2019-spring-week7/) (co-presented with Leendert Plug)
+            [Speech tempo measurement and perception.](https://www.york.ac.uk/language/news/events/talks/colloquia/2019-spring-week7/) (co-presented with Leendert Plug)
 
       - layout: left
         sub_title: Speech Science Forum seminar, University College London
@@ -243,13 +243,13 @@ content:
             [Perception of Glaswegian rhoticity suffers in challenging listening conditions.](https://blogs.kent.ac.uk/baap/files/2018/03/BAAP-2018_Lennon.pdf) ***(Invited session chair: Speech Perception)***
 
       - layout: left
-        sub_title: English Language & Linguistics Research Seminar, University of Glasgow
+        sub_title: Linguistics Research Seminar, University of Glasgow
         caption: March 2017
         description: | # this will include new lines to allow paragraphs
             Fussed, second, thud: Mouse tracking reveals implicit perception of ambiguous /r/ in Glasgow. ***(Invited speaker)***
 
       - layout: left
-        sub_title: Human Language Processing Lab presentation, University of Rochester
+        sub_title: Human Language Processing Lab, University of Rochester
         caption: February 2017
         description: | # this will include new lines to allow paragraphs
             Glasgow Smiles Better? Long-term and short-term adaptation to accents. (***Invited speaker***, co-presented with Rachel Smith)
@@ -279,25 +279,25 @@ content:
             [Is gender a factor in real-time acoustic change in coda liquids in Glasgow?](http://wp.lancs.ac.uk/phonetics/files/2015/08/BAAP_abstracts.pdf) *(Co-author)*
 
       - layout: left
-        sub_title: 18th International Congress of Phonetic Sciences, Glasgow
+        sub_title: ICPhS 18, Glasgow
         caption: August 2015
         description: | # this will include new lines to allow paragraphs
             [An acoustic investigation of postvocalic /r/ variants in two sociolects of Glaswegian.](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS1019.pdf)
 
       - layout: left
-        sub_title: 18th International Congress of Phonetic Sciences, Glasgow
+        sub_title: ICPhS 18, Glasgow
         caption: August 2015
         description: | # this will include new lines to allow paragraphs
             [A dynamic acoustic view of real-time change in word-final liquids in spontaneous Glaswegian.](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS1028.pdf) *(Co-author)*
 
       - layout: left
-        sub_title: English Language & Linguistics Research Seminar, University of Glasgow
+        sub_title: Linguistics Research Seminar, University of Glasgow
         caption: October 2014
         description: | # this will include new lines to allow paragraphs
             The role of experience in accent perception: Parsing /r/ in Glaswegian. ***(Invited speaker)***
 
       - layout: left
-        sub_title: Architectures and Mechanisms for Language Processing, University of Edinburgh
+        sub_title: AMLaP, University of Edinburgh
         caption: September 2014
         description: | # this will include new lines to allow paragraphs
             The effect of exposure in cross-dialect perception: Hearing ambiguous /r/ variants in Glaswegian.
