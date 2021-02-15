@@ -152,7 +152,7 @@ content:
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (https://icphs2019.org/icphs2019-fullpapers/pdf/full-paper_637.pdf)
-            Lennon, R., Plug, L. & Gold, E. (2019). [A comparison of multiple speech tempo measures: Inter-correlations and discriminating power.](talks/LennonPlugGoldICPhS2019.pdf) *Proceedings of the 19th ICPhS*. Melbourne: University of Melbourne.
+            Lennon, R., Plug, L. & Gold, E. (2019). [A comparison of multiple speech tempo measures: Inter-correlations and discriminating power.](papers/LennonPlugGoldICPhS2019.pdf) *Proceedings of the 19th ICPhS*. Melbourne: University of Melbourne.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (https://icphs2019.org/icphs2019-fullpapers/pdf/full-paper_611.pdf)
