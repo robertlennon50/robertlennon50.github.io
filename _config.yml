@@ -85,8 +85,8 @@ content:
         sub_title: University of Glasgow, 2019
         #quote: >
         #  Supervisors: [Dr Rachel Smith](https://www.gla.ac.uk/schools/critical/staff/rachelsmith/), [Professor Jane Stuart-Smith](https://www.gla.ac.uk/schools/critical/staff/janestuart-smith/)
-        description: | # this will include new lines to allow paragraphs
-          Thesis: [***Experience and Learning in Cross-dialect perception: Derhoticised /r/ in Glasgow***](http://theses.gla.ac.uk/74370/)
+        description: | # this will include new lines to allow paragraphs   # (http://theses.gla.ac.uk/74370/)
+          Thesis: [***Experience and Learning in Cross-dialect perception: Derhoticised /r/ in Glasgow***](papers/LennonPhD2017.pdf)
 
       - layout: left
         title: MSc Linguistics
@@ -147,12 +147,12 @@ content:
             Plug, L., Lennon, R. & Gold, E. (forthcoming). On quantifying speech tempo: Articulation rates' inter-correlations and discriminating powers in an English speech corpus. *Speech Communication*.
 
       - layout: left
-        description: | # this will include new lines to allow paragraphs
-            Plug, L., Smith, R., & Lennon, R. (2020). [Listeners' sensitivity to syllable complexity in speech tempo perception.](http://eprints.whiterose.ac.uk/159167/1/SpeechProsody_4.pdf) *Proceedings of the 10th International Conference on Speech Prosody*. Tokyo: University of Tokyo.
+        description: | # this will include new lines to allow paragraphs  # (http://eprints.whiterose.ac.uk/159167/1/SpeechProsody_4.pdf)
+            Plug, L., Smith, R., & Lennon, R. (2020). [Listeners' sensitivity to syllable complexity in speech tempo perception.](papers/PlugLennonSmithSP2020.pdf) *Proceedings of the 10th International Conference on Speech Prosody*. Tokyo: University of Tokyo.
 
       - layout: left
-        description: | # this will include new lines to allow paragraphs
-            Lennon, R., Gold, E. & Plug, L. (2019). [A comparison of multiple speech tempo measures: Inter-correlations and discriminating power.](https://icphs2019.org/icphs2019-fullpapers/pdf/full-paper_637.pdf) *Proceedings of the 19th ICPhS*. Melbourne: University of Melbourne.
+        description: | # this will include new lines to allow paragraphs  # (https://icphs2019.org/icphs2019-fullpapers/pdf/full-paper_637.pdf)
+            Lennon, R., Plug, L. & Gold, E. (2019). [A comparison of multiple speech tempo measures: Inter-correlations and discriminating power.](talks/LennonPlugGoldICPhS2019.pdf) *Proceedings of the 19th ICPhS*. Melbourne: University of Melbourne.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs
@@ -167,7 +167,7 @@ content:
             Stuart-Smith, J., Lennon, R., MacDonald, R., Robertson, D., Soskuthy, M., Jose, B. & Evers, L. (2015). [A dynamic acoustic view of real-time change in word-final liquids in spontaneous Glaswegian.](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS1028.pdf) *Proceedings of the 18th ICPhS*. Glasgow: University of Glasgow.
 
 
-  - title: Selected recent talks # Title for the section
+  - title: Selected talks # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -197,14 +197,14 @@ content:
       - layout: left
         sub_title: Rate and Rhythm in Speech Recognition, Max Planck Institute for Psycholinguistics, Nijmegen
         caption: December 2019
-        description: | # this will include new lines to allow paragraphs
-            [Speech tempo perception and deletion: Evidence from a listening experiment.](talks/LennonSmithPlugMPI2019.pdf) #(https://www.mpi.nl/page/r3-poster-program)
+        description: | # this will include new lines to allow paragraphs   #(https://www.mpi.nl/page/r3-poster-program)
+            [Speech tempo perception and deletion: Evidence from a listening experiment.](talks/LennonSmithPlugMPI2019.pdf)
 
       - layout: left
         sub_title: UKLVC 12, Queen Mary University/University College London
         caption: September 2019
-        description: | # this will include new lines to allow paragraphs
-            [The effect of regional variation on speech processing: Evidence from an eye-tracking experiment.](talks/TomeLouridoetal_UKLVC12.pdf) *(Co-author)* #(https://uklvc12.qmul.ac.uk/wp-content/uploads/2019/09/TomeLouridoetal_UKLVC12.pdf)
+        description: | # this will include new lines to allow paragraphs  #(https://uklvc12.qmul.ac.uk/wp-content/uploads/2019/09/TomeLouridoetal_UKLVC12.pdf)
+            [The effect of regional variation on speech processing: Evidence from an eye-tracking experiment.](talks/TomeLouridoetal_UKLVC12.pdf) *(Co-author)*
 
       - layout: left
         sub_title: ICPhS 19, Melbourne
@@ -230,17 +230,17 @@ content:
 #        description: | # this will include new lines to allow paragraphs
 #            [Speech tempo measurement and perception.](https://www.york.ac.uk/language/news/events/talks/colloquia/2019-spring-week7/) (co-presented with Leendert Plug)
 
-#      - layout: left
-#        sub_title: Speech Science Forum seminar, University College London
-#        caption: October 2018
-#        description: | # this will include new lines to allow paragraphs
-#            [Experience and learning in cross-dialect perception: Ambiguous /r/ in Glasgow.](https://www.ucl.ac.uk/pals/sites/pals/files/ssf_rlennon.pdf) ***(Invited speaker)***
+      - layout: left
+        sub_title: Speech Science Forum seminar, University College London
+        caption: October 2018
+        description: | # this will include new lines to allow paragraphs
+            [Experience and learning in cross-dialect perception: Ambiguous /r/ in Glasgow.](https://www.ucl.ac.uk/pals/sites/pals/files/ssf_rlennon.pdf) ***(Invited speaker)***
 
-#      - layout: left
-#        sub_title: BAAP, University of Kent
-#        caption: April 2018
-#        description: | # this will include new lines to allow paragraphs
-#            [Perception of Glaswegian rhoticity suffers in challenging listening conditions.](https://blogs.kent.ac.uk/baap/files/2018/03/BAAP-2018_Lennon.pdf) ***(Invited session chair: Speech Perception)***
+      - layout: left
+        sub_title: BAAP, University of Kent
+        caption: April 2018
+        description: | # this will include new lines to allow paragraphs
+            [Perception of Glaswegian rhoticity suffers in challenging listening conditions.](https://blogs.kent.ac.uk/baap/files/2018/03/BAAP-2018_Lennon.pdf) ***(Invited session chair: Speech Perception)***
 
 #      - layout: left
 #        sub_title: Linguistics Research Seminar, University of Glasgow
@@ -248,17 +248,17 @@ content:
 #        description: | # this will include new lines to allow paragraphs
 #            Fussed, second, thud: Mouse tracking reveals implicit perception of ambiguous /r/ in Glasgow. ***(Invited speaker)***
 
-#      - layout: left
-#        sub_title: Human Language Processing Lab, University of Rochester
-#        caption: February 2017
-#        description: | # this will include new lines to allow paragraphs
-#            Glasgow Smiles Better? Long-term and short-term adaptation to accents. (***Invited speaker***, co-presented with Rachel Smith)
+      - layout: left
+        sub_title: Human Language Processing Lab, University of Rochester
+        caption: February 2017
+        description: | # this will include new lines to allow paragraphs
+            Glasgow Smiles Better? Long-term and short-term adaptation to accents. (***Invited speaker***, co-presented with Rachel Smith)
 
-#      - layout: left
-#        sub_title: LabPhon15, Cornell University
-#        caption: July 2016
-#        description: | # this will include new lines to allow paragraphs
-#            [Ambiguous rhoticity in Glasgow: Short term exposure promotes perceptual adaptation for experienced and inexperienced listeners.](http://intro2psycholing.net/labphon15/long_abstracts/LabPhon15_Revised_abstract_250.pdf) *(National Science Foundation travel award, $400)*
+      - layout: left
+        sub_title: LabPhon15, Cornell University
+        caption: July 2016
+        description: | # this will include new lines to allow paragraphs
+            [Ambiguous rhoticity in Glasgow: Short term exposure promotes perceptual adaptation for experienced and inexperienced listeners.](http://intro2psycholing.net/labphon15/long_abstracts/LabPhon15_Revised_abstract_250.pdf) *(National Science Foundation travel award, 400USD)*
 
 #      - layout: left
 #        sub_title: `r-atics 5, Fryske Akademy, Leeuwarden
