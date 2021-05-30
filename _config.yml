@@ -144,7 +144,7 @@ content:
     content:
       - layout: left
         description: | # this will include new lines to allow paragraphs
-            Plug, L., Lennon, R. & Gold, E. (forthcoming). On quantifying speech tempo: Articulation rates' inter-correlations and discriminating powers in an English speech corpus. *Speech Communication*.
+            Plug, L., Lennon, R. & Gold, E. (2021). [Articulation rates' inter-correlations and discriminating powers in an English speech corpus.](https://doi.org/10.1016/j.specom.2021.05.006) *Speech Communication*.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://eprints.whiterose.ac.uk/159167/1/SpeechProsody_4.pdf)
