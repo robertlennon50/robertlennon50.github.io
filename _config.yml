@@ -8,7 +8,8 @@ version: 2
 # Personal info
 name: Robert Lennon
 title: Linguistics Researcher
-email: r.w.lennon@lancaster.ac.uk
+#email: r.w.lennon@lancaster.ac.uk
+email: robert.lennon@glasgow.ac.uk
 website: robertlennon50.github.io
 
 # Dark Mode (true/false/never)
@@ -48,7 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a Linguistics Researcher at the [Phonetics Lab](http://wp.lancs.ac.uk/phonetics/) at [Lancaster University](https://www.research.lancs.ac.uk/portal/en/people/robert-lennon(22704958-6851-46a4-8a82-29a3ea2334ed).html). My research is in sociolinguistics, phonetics and speech perception, and I'm interested in how the social aspects of speech communities affect how speech sounds are produced and perceived.
+  I'm a Lecturer in Phonetics and Sociolinguistics at the [University of Glasgow](https://www.gla.ac.uk/subjects/englishlanguage/), as well as a Linguistics Researcher at the [Phonetics Lab](http://wp.lancs.ac.uk/phonetics/) at [Lancaster University](https://www.research.lancs.ac.uk/portal/en/people/robert-lennon(22704958-6851-46a4-8a82-29a3ea2334ed).html). My research is in sociolinguistics, phonetics and speech perception, and I'm interested in how the social aspects of speech communities affect how speech sounds are produced and perceived.
   
   My expertise is in Scottish English (especially phonetic variation in Glasgow), rhoticity, and cross-dialect perception. I also have some knowledge of perception of speech tempo and phonetic reduction.
   
@@ -107,11 +108,20 @@ content:
           Dissertation: ***A real-time sociophonetic study of postvocalic /r/ in the speech of schoolchildren in Bearsden***
 
 
-  - title: Research Experience # Title for the section
+  - title: Employment # Title for the section # Research Experience
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Research Associate
+        title: Lecturer in Phonetics and Sociolinguistics
+        sub_title: University of Glasgow
+        caption: 2021 - 2022
+        description: | # this will include new lines to allow paragraphs
+            ***English Language and Linguistics***
+            
+            I am delivering teaching, supervision and assessment on theoretical, instrumental and articulatory Phonetics (segmental and prosodic approaches), variationist Sociolinguistics, and general linguistics at all levels from Level 1 to PGT. I am course convenor for both Honours PGT Sociolinguistics courses, as well as the Level 2 year group for the linguistics department.
+
+      - layout: left
+        title: Senior Research Associate
         sub_title: Lancaster University
         caption: 2020 - present
         description: | # this will include new lines to allow paragraphs
@@ -170,6 +180,24 @@ content:
   - title: Selected talks # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        sub_title: R-Atics 7, Universite de Lausanne
+        caption: November 2021
+        description: | # this will include new lines to allow paragraphs
+            *An island of rhoticity*: The first comprehensive instrumental analysis of postvocalic /r/ in Lancashire.
+
+      - layout: left
+        sub_title: UKLVC 13, University of Glasgow
+        caption: September 2021
+        description: | # this will include new lines to allow paragraphs
+            Ambiguous rhoticity in Lancashire and Glasgow: A perceptual comparison.
+
+      - layout: left
+        sub_title: UKLVC 13, University of Glasgow
+        caption: September 2021
+        description: | # this will include new lines to allow paragraphs
+            Processing regional accent variation: Real-time and reaction time measures. *(Co-author)*
+
       - layout: left
         sub_title: Phonetics Lab, Aarhus University
         caption: May 2021
