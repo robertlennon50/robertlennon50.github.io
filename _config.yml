@@ -153,6 +153,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
+            Turton, D. & Lennon, R. (accepted pending revisions). An acoustic analysis of rhoticity in Lancashire, England. *Journal of Phonetics*.
+
+      - layout: left
+        description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxxx)
+            Plug, L., Lennon, R. & Smith, R. (2022). Schwa deletion and perceived tempo in English. *Proceedings of the 11th International Conference on Speech Prosody*. Lisbon: Universidade de Lisboa.
+
+      - layout: left
         description: | # this will include new lines to allow paragraphs
             Plug, L., Lennon, R. & Gold, E. (2021). [Articulation rates' inter-correlations and discriminating powers in an English speech corpus.](https://doi.org/10.1016/j.specom.2021.05.006) *Speech Communication*.
 
@@ -180,6 +188,18 @@ content:
   - title: Selected talks # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        sub_title: Speech Prosody 11, Universidade de Lisboa
+        caption: May 2022
+        description: | # this will include new lines to allow paragraphs
+            Schwa deletion and perceived tempo in English. *(Co-author)*
+
+      - layout: left
+        sub_title: BAAP, University of York
+        caption: April 2022
+        description: | # this will include new lines to allow paragraphs
+            Assessing listeners' orientation to canonical forms in speech tempo perception. *(Co-author)*
+
       - layout: left
         sub_title: R-Atics 7, Universite de Lausanne
         caption: November 2021
