@@ -47,13 +47,14 @@ additional_links:
 
 # About Section
 # about_title: About Me
+# ## removed from this section but keep for later: ", as well as a Linguistics Researcher at the [Phonetics Lab](http://wp.lancs.ac.uk/phonetics/) at [Lancaster University](https://www.research.lancs.ac.uk/portal/en/people/robert-lennon(22704958-6851-46a4-8a82-29a3ea2334ed).html)"
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a Lecturer in Phonetics and Sociolinguistics at the [University of Glasgow](https://www.gla.ac.uk/subjects/englishlanguage/), as well as a Linguistics Researcher at the [Phonetics Lab](http://wp.lancs.ac.uk/phonetics/) at [Lancaster University](https://www.research.lancs.ac.uk/portal/en/people/robert-lennon(22704958-6851-46a4-8a82-29a3ea2334ed).html). My research is in sociolinguistics, phonetics and speech perception, and I'm interested in how the social aspects of speech communities affect how speech sounds are produced and perceived.
+  I'm a Lecturer in Phonetics and Sociolinguistics at the [University of Glasgow](https://www.gla.ac.uk/subjects/englishlanguage/). My research is in sociolinguistics, phonetics and speech perception, and I'm interested in how the social aspects of speech communities affect how speech sounds are produced and perceived.
   
-  My expertise is in Scottish English (especially phonetic variation in Glasgow), rhoticity, and cross-dialect perception. I also have some knowledge of perception of speech tempo and phonetic reduction.
+  My expertise is in Scottish English (especially phonetic variation in Glasgow), rhoticity, and cross-dialect perception, and I have also worked on perception of speech tempo and phonetic reduction.
   
-  I am most skilled in: <mark>Sociolinguistics teaching</mark>, <mark>R</mark>, <mark>Praat</mark> and <mark>Perception experiments</mark>
+  I am most skilled in: <mark>Phonetics teaching</mark>, <mark>Sociolinguistics teaching</mark>, <mark>R</mark>, <mark>Praat</mark> and <mark>Perception experiments</mark>
   
   Click [here](CV/Robert_Lennon_CV.pdf) for my CV.
 
@@ -123,7 +124,7 @@ content:
       - layout: left
         title: Senior Research Associate
         sub_title: Lancaster University
-        caption: 2020 - present
+        caption: 2020 - 2021
         description: | # this will include new lines to allow paragraphs
             ***Changing /r/ accents? Towards a sociophonological understanding of sound change***
             
@@ -158,7 +159,7 @@ content:
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
-            Plug, L., Lennon, R. & Smith, R. (accepted pending revisions). Measured and perceived speech tempo: Comparing canonical and surface articulation rates. *Journal of Phonetics*.
+            Plug, L., Lennon, R. & Smith, R. (in press). Measured and perceived speech tempo: Comparing canonical and surface articulation rates. *Journal of Phonetics*.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxxx)
