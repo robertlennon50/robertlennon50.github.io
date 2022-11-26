@@ -78,6 +78,46 @@ content:
 #        description: | # this will include new lines to allow paragraphs
 #          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
+            Turton, D. & Lennon, R. (accepted pending revisions). An acoustic analysis of rhoticity in Lancashire, England. *Journal of Phonetics*.
+
+      - layout: left
+        description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
+            Plug, L., Lennon, R. & Smith, R. (2022). [Measured and perceived speech tempo: Comparing canonical and surface articulation rates.](https://www.sciencedirect.com/science/article/pii/S0095447022000687?casa_token=AoPvSvEjE4AAAAAA:GPTp5bYHVqFdqLkFpbqyyPmwsfapdl656epHNsGqJu0FReMeYT6m0ii4wO8tNP8ZeFVv6EOWcHQ) *Journal of Phonetics*.
+
+      - layout: left
+        description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxxx)
+            Plug, L., Lennon, R. & Smith, R. (2022). Schwa deletion and perceived tempo in English. *Proceedings of the 11th International Conference on Speech Prosody*. Lisbon: Universidade de Lisboa.
+
+      - layout: left
+        description: | # this will include new lines to allow paragraphs
+            Plug, L., Lennon, R. & Gold, E. (2021). [Articulation rates' inter-correlations and discriminating powers in an English speech corpus.](https://doi.org/10.1016/j.specom.2021.05.006) *Speech Communication*.
+
+      - layout: left
+        description: | # this will include new lines to allow paragraphs  # (http://eprints.whiterose.ac.uk/159167/1/SpeechProsody_4.pdf)
+            Plug, L., Smith, R., & Lennon, R. (2020). [Listeners' sensitivity to syllable complexity in speech tempo perception.](papers/PlugLennonSmithSP2020.pdf) *Proceedings of the 10th International Conference on Speech Prosody*. Tokyo: University of Tokyo.
+
+      - layout: left
+        description: | # this will include new lines to allow paragraphs  # (https://icphs2019.org/icphs2019-fullpapers/pdf/full-paper_637.pdf)
+            Lennon, R., Plug, L. & Gold, E. (2019). [A comparison of multiple speech tempo measures: Inter-correlations and discriminating power.](papers/LennonPlugGoldICPhS2019.pdf) *Proceedings of the 19th ICPhS*. Melbourne: University of Melbourne.
+
+      - layout: left
+        description: | # this will include new lines to allow paragraphs  # (https://icphs2019.org/icphs2019-fullpapers/pdf/full-paper_611.pdf)
+            Plug, L., Lennon, R. & Smith, R.(2019). [Measured and perceived speech tempo: Canonical vs surface syllable and phone rates.](papers/PlugLennonSmithICPhS2019.pdf) *Proceedings of the 19th ICPhS*. Melbourne: University of Melbourne.
+
+      - layout: left
+        description: | # this will include new lines to allow paragraphs  # (https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS1019.pdf)
+            Lennon, R., Smith, R. & Stuart-Smith, J. (2015). [An acoustic investigation of postvocalic /r/ variants in two sociolects of Glaswegian.](papers/LennonSmithStuartSmithICPhS2015.pdf) *Proceedings of the 18th ICPhS*. Glasgow: University of Glasgow.
+
+      - layout: left
+        description: | # this will include new lines to allow paragraphs  # (https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS1028.pdf)
+            Stuart-Smith, J., Lennon, R., MacDonald, R., Robertson, D., Soskuthy, M., Jose, B. & Evers, L. (2015). [A dynamic acoustic view of real-time change in word-final liquids in spontaneous Glaswegian.](papers/DynamicLiquidsICPhS2015.pdf) *Proceedings of the 18th ICPhS*. Glasgow: University of Glasgow.
+
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -148,46 +188,6 @@ content:
             - Statistical analysis, transcription work
             - Writing contributions to research outputs
             - Participant recruitment and recording
-
-
-  - title: Publications # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
-            Turton, D. & Lennon, R. (accepted pending revisions). An acoustic analysis of rhoticity in Lancashire, England. *Journal of Phonetics*.
-
-      - layout: left
-        description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
-            Plug, L., Lennon, R. & Smith, R. (in press). Measured and perceived speech tempo: Comparing canonical and surface articulation rates. *Journal of Phonetics*.
-
-      - layout: left
-        description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxxx)
-            Plug, L., Lennon, R. & Smith, R. (2022). Schwa deletion and perceived tempo in English. *Proceedings of the 11th International Conference on Speech Prosody*. Lisbon: Universidade de Lisboa.
-
-      - layout: left
-        description: | # this will include new lines to allow paragraphs
-            Plug, L., Lennon, R. & Gold, E. (2021). [Articulation rates' inter-correlations and discriminating powers in an English speech corpus.](https://doi.org/10.1016/j.specom.2021.05.006) *Speech Communication*.
-
-      - layout: left
-        description: | # this will include new lines to allow paragraphs  # (http://eprints.whiterose.ac.uk/159167/1/SpeechProsody_4.pdf)
-            Plug, L., Smith, R., & Lennon, R. (2020). [Listeners' sensitivity to syllable complexity in speech tempo perception.](papers/PlugLennonSmithSP2020.pdf) *Proceedings of the 10th International Conference on Speech Prosody*. Tokyo: University of Tokyo.
-
-      - layout: left
-        description: | # this will include new lines to allow paragraphs  # (https://icphs2019.org/icphs2019-fullpapers/pdf/full-paper_637.pdf)
-            Lennon, R., Plug, L. & Gold, E. (2019). [A comparison of multiple speech tempo measures: Inter-correlations and discriminating power.](papers/LennonPlugGoldICPhS2019.pdf) *Proceedings of the 19th ICPhS*. Melbourne: University of Melbourne.
-
-      - layout: left
-        description: | # this will include new lines to allow paragraphs  # (https://icphs2019.org/icphs2019-fullpapers/pdf/full-paper_611.pdf)
-            Plug, L., Lennon, R. & Smith, R.(2019). [Measured and perceived speech tempo: Canonical vs surface syllable and phone rates.](papers/PlugLennonSmithICPhS2019.pdf) *Proceedings of the 19th ICPhS*. Melbourne: University of Melbourne.
-
-      - layout: left
-        description: | # this will include new lines to allow paragraphs  # (https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS1019.pdf)
-            Lennon, R., Smith, R. & Stuart-Smith, J. (2015). [An acoustic investigation of postvocalic /r/ variants in two sociolects of Glaswegian.](papers/LennonSmithStuartSmithICPhS2015.pdf) *Proceedings of the 18th ICPhS*. Glasgow: University of Glasgow.
-
-      - layout: left
-        description: | # this will include new lines to allow paragraphs  # (https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS1028.pdf)
-            Stuart-Smith, J., Lennon, R., MacDonald, R., Robertson, D., Soskuthy, M., Jose, B. & Evers, L. (2015). [A dynamic acoustic view of real-time change in word-final liquids in spontaneous Glaswegian.](papers/DynamicLiquidsICPhS2015.pdf) *Proceedings of the 18th ICPhS*. Glasgow: University of Glasgow.
 
 
   - title: Selected talks # Title for the section
