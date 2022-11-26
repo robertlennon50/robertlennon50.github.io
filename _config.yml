@@ -159,7 +159,7 @@ content:
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
-            Plug, L., Lennon, R. & Smith, R. (in press). Measured and perceived speech tempo: Comparing canonical and surface articulation rates. *Journal of Phonetics*.
+            Plug, L., Lennon, R. & Smith, R. (2022). [Measured and perceived speech tempo: Comparing canonical and surface articulation rates.](https://www.sciencedirect.com/science/article/pii/S0095447022000687?casa_token=AoPvSvEjE4AAAAAA:GPTp5bYHVqFdqLkFpbqyyPmwsfapdl656epHNsGqJu0FReMeYT6m0ii4wO8tNP8ZeFVv6EOWcHQ) *Journal of Phonetics*.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxxx)
