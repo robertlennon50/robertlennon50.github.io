@@ -118,7 +118,7 @@ content:
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
-            Plug, L., Lennon, R. & Smith, R. (2022). [Measured and perceived speech tempo: Comparing canonical and surface articulation rates.](https://www.sciencedirect.com/science/article/pii/S0095447022000687?casa_token=AoPvSvEjE4AAAAAA:GPTp5bYHVqFdqLkFpbqyyPmwsfapdl656epHNsGqJu0FReMeYT6m0ii4wO8tNP8ZeFVv6EOWcHQ) *Journal of Phonetics*.
+            Plug, L., Lennon, R. & Smith, R. (2022). [Measured and perceived speech tempo: Comparing canonical and surface articulation rates.](https://doi.org/10.1016/j.wocn.2022.101193) *Journal of Phonetics 95,* 101193.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxxx)
@@ -126,7 +126,7 @@ content:
 
       - layout: left
         description: | # this will include new lines to allow paragraphs
-            Plug, L., Lennon, R. & Gold, E. (2021). [Articulation rates' inter-correlations and discriminating powers in an English speech corpus.](https://doi.org/10.1016/j.specom.2021.05.006) *Speech Communication*.
+            Plug, L., Lennon, R. & Gold, E. (2021). [Articulation rates' inter-correlations and discriminating powers in an English speech corpus.](https://doi.org/10.1016/j.specom.2021.05.006) *Speech Communication 132,* 40-54.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://eprints.whiterose.ac.uk/159167/1/SpeechProsody_4.pdf)

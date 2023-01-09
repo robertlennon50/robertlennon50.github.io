@@ -78,6 +78,37 @@ content:
 #        description: | # this will include new lines to allow paragraphs
 #          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: PhD Linguistics
+        #caption: 2019
+        sub_title: University of Glasgow, 2019
+        #quote: >
+        #  Supervisors: [Dr Rachel Smith](https://www.gla.ac.uk/schools/critical/staff/rachelsmith/), [Professor Jane Stuart-Smith](https://www.gla.ac.uk/schools/critical/staff/janestuart-smith/)
+        description: | # this will include new lines to allow paragraphs   # (http://theses.gla.ac.uk/74370/)
+          Thesis: [***Experience and Learning in Cross-dialect perception: Derhoticised /r/ in Glasgow***](papers/LennonPhD2017.pdf)
+
+      - layout: left
+        title: MSc Linguistics
+        #caption: 2013
+        sub_title: University of Glasgow, 2013
+        #quote: >
+        #  Supervisors: Dr Rachel Smith, Professor Jane Stuart-Smith
+        description: | # this will include new lines to allow paragraphs
+          Thesis: ***The effect of experience in cross-dialect perception: Parsing /r/ in Glaswegian***
+
+      - layout: left
+        title: MA English Language
+        #caption: 2012
+        sub_title: University of Glasgow, 2012
+        #quote: >
+        #  Supervisors: Dr Rachel Smith, Professor Jane Stuart-Smith
+        description: | # this will include new lines to allow paragraphs
+          Dissertation: ***A real-time sociophonetic study of postvocalic /r/ in the speech of schoolchildren in Bearsden***
+
+
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -116,37 +147,6 @@ content:
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS1028.pdf)
             Stuart-Smith, J., Lennon, R., MacDonald, R., Robertson, D., Soskuthy, M., Jose, B. & Evers, L. (2015). [A dynamic acoustic view of real-time change in word-final liquids in spontaneous Glaswegian.](papers/DynamicLiquidsICPhS2015.pdf) *Proceedings of the 18th ICPhS*. Glasgow: University of Glasgow.
-
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: PhD Linguistics
-        #caption: 2019
-        sub_title: University of Glasgow, 2019
-        #quote: >
-        #  Supervisors: [Dr Rachel Smith](https://www.gla.ac.uk/schools/critical/staff/rachelsmith/), [Professor Jane Stuart-Smith](https://www.gla.ac.uk/schools/critical/staff/janestuart-smith/)
-        description: | # this will include new lines to allow paragraphs   # (http://theses.gla.ac.uk/74370/)
-          Thesis: [***Experience and Learning in Cross-dialect perception: Derhoticised /r/ in Glasgow***](papers/LennonPhD2017.pdf)
-
-      - layout: left
-        title: MSc Linguistics
-        #caption: 2013
-        sub_title: University of Glasgow, 2013
-        #quote: >
-        #  Supervisors: Dr Rachel Smith, Professor Jane Stuart-Smith
-        description: | # this will include new lines to allow paragraphs
-          Thesis: ***The effect of experience in cross-dialect perception: Parsing /r/ in Glaswegian***
-
-      - layout: left
-        title: MA English Language
-        #caption: 2012
-        sub_title: University of Glasgow, 2012
-        #quote: >
-        #  Supervisors: Dr Rachel Smith, Professor Jane Stuart-Smith
-        description: | # this will include new lines to allow paragraphs
-          Dissertation: ***A real-time sociophonetic study of postvocalic /r/ in the speech of schoolchildren in Bearsden***
 
 
   - title: Employment # Title for the section # Research Experience
