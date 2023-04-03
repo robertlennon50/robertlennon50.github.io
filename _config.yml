@@ -114,7 +114,15 @@ content:
     content:
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
+            Lennon, R. (under review). Perception of ambiguous rhoticity in Glasgow. *Journal of Phonetics*.
+
+      - layout: left
+        description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
             Turton, D. & Lennon, R. (accepted pending revisions). An acoustic analysis of rhoticity in Lancashire, England. *Journal of Phonetics*.
+
+      - layout: left
+        description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
+            Plug, L., Lennon, R. & Smith, R. (submitted). Evidence for canonical form orientation in speech tempo perception.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
