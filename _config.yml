@@ -202,6 +202,12 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        sub_title: UKLVC 14, University of Edinburgh
+        caption: June 2023
+        description: | # this will include new lines to allow paragraphs
+            The loss of rhoticity in Blackburn, Lancashire: Evidence from ultrasound. *(Co-author)* [click for poster](talks/TurtonLennonUKLVC14.pdf)
+
+      - layout: left
         sub_title: Speech Prosody 11, Universidade de Lisboa
         caption: May 2022
         description: | # this will include new lines to allow paragraphs
