@@ -122,7 +122,7 @@ content:
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
-            Plug, L., Lennon, R. & Smith, R. (submitted). Evidence for canonical form orientation in speech tempo perception.
+            Plug, L., Lennon, R. & Smith, R. (2023). [Evidence for canonical form orientation in speech tempo perception.](https://doi.org/10.1177/17470218231198344) *Quarterly Journal of Experimental Psychology*.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
@@ -201,6 +201,12 @@ content:
   - title: Selected talks # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        sub_title: UKLVC 14, University of Edinburgh
+        caption: June 2023
+        description: | # this will include new lines to allow paragraphs
+            The loss of rhoticity in Blackburn, Lancashire: Evidence from ultrasound. *(Co-author)* [click for poster](talks/TurtonLennonUKLVC14.pdf)
+
       - layout: left
         sub_title: Speech Prosody 11, Universidade de Lisboa
         caption: May 2022
