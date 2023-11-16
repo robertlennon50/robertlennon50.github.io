@@ -122,7 +122,7 @@ content:
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
-            Plug, L., Lennon, R. & Smith, R. (2023). [Evidence for canonical form orientation in speech tempo perception.](https://doi.org/10.1177/17470218231198344) *Quarterly Journal of Experimental Psychology*.
+            Plug, L., Lennon, R. & Smith, R. (2023). [Testing for canonical form orientation in speech tempo perception.](https://doi.org/10.1177/17470218231198344) *Quarterly Journal of Experimental Psychology*.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)

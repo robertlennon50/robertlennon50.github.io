@@ -114,11 +114,23 @@ content:
     content:
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
-            Lennon, R. (under review). Perception of ambiguous rhoticity in Glasgow. *Journal of Phonetics*.
+            Lennon, R. (accepted pending revisions). Perception of ambiguous rhoticity in Glasgow. *Journal of Phonetics*.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
-            Turton, D. & Lennon, R. (accepted pending revisions). An acoustic analysis of rhoticity in Lancashire, England. *Journal of Phonetics*.
+            Turton, D. & Lennon, R. (in press). An acoustic analysis of rhoticity in Lancashire, England. *Journal of Phonetics*.
+
+      - layout: left
+        description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
+            Lennon, R. (in prep). Listener processing of fine phonetic detail in a familiar accent of English: Insights from mouse tracking.
+
+      - layout: left
+        description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
+            Turton, D. & Lennon, R. (in prep). 4,000 /r/s in Blackburn, Lancashire: An ultrasound study of Anglo-English derhoticisation.
+
+      - layout: left
+        description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
+            Nance, C. & Lennon, R. (in prep). In: *Approximants: Their Phonetics and Phonology*. Editor: Martin J. Ball (book chapter, to appear 2024).
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
