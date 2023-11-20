@@ -118,7 +118,7 @@ content:
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
-            Turton, D. & Lennon, R. (in press). An acoustic analysis of rhoticity in Lancashire, England. *Journal of Phonetics*.
+            Turton, D. & Lennon, R. (2023). [An acoustic analysis of rhoticity in Lancashire, England.](https://doi.org/10.1016/j.wocn.2023.101280) *Journal of Phonetics 101,* 101280.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
