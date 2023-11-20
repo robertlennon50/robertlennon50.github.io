@@ -130,7 +130,7 @@ content:
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
-            Nance, C. & Lennon, R. (in prep). In: *Approximants: Their Phonetics and Phonology*. Editor: Martin J. Ball (book chapter, to appear 2024).
+            Nance, C. & Lennon, R. In: *Approximants: Their Phonetics and Phonology*. Editor: Martin J. Ball (book chapter, to appear 2024).
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
