@@ -395,6 +395,16 @@ content:
 
 
 
+  - title: Guides # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        sub_title: Ultrasound Tongue Imaging – A full workflow
+        caption: September 2023
+        description: | # this will include new lines to allow paragraphs
+            Delivered at The Unversity of Oxford [click for guide](guides/AAA_workflow_guide_RL.html)
+
+
 
 
 
