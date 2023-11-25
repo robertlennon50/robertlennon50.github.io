@@ -214,6 +214,12 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        sub_title: NWAV 51, Queens College, City University New York
+        caption: October 2023
+        description: | # this will include new lines to allow paragraphs
+            The decline of rhoticity in Lancashire, Northern England: Data from ultrasound and sociolinguistic interviews
+
+      - layout: left
         sub_title: UKLVC 14, University of Edinburgh
         caption: June 2023
         description: | # this will include new lines to allow paragraphs
