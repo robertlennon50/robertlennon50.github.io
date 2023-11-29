@@ -120,9 +120,9 @@ content:
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
             Turton, D. & Lennon, R. (2023). [An acoustic analysis of rhoticity in Lancashire, England.](https://doi.org/10.1016/j.wocn.2023.101280) *Journal of Phonetics 101,* 101280.
 
-      - layout: left
-        description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
-            Lennon, R. (in prep). Listener processing of fine phonetic detail in a familiar accent of English: Insights from mouse tracking.
+      #- layout: left
+      #  description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
+      #      Lennon, R. (in prep). Listener processing of fine phonetic detail in a familiar accent of English: Insights from mouse tracking.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
@@ -130,7 +130,7 @@ content:
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
-            Nance, C. & Lennon, R. In: *Approximants: Their Phonetics and Phonology*. Editor: Martin J. Ball (book chapter, to appear 2024).
+            Nance, C. & Lennon, R. The Sociolinguistics of Approximants. In: *Approximants: Their Phonetics and Phonology*. Editor: Martin J. Ball (book chapter, to appear 2024).
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
@@ -213,6 +213,12 @@ content:
   - title: Selected talks # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        sub_title: NWAV 51, Queens College, City University New York
+        caption: October 2023
+        description: | # this will include new lines to allow paragraphs
+            The decline of rhoticity in Lancashire, Northern England: Data from ultrasound and sociolinguistic interviews
+
       - layout: left
         sub_title: UKLVC 14, University of Edinburgh
         caption: June 2023
