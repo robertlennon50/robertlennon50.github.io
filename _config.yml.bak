@@ -214,6 +214,12 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        sub_title: BAAP, Cardiff University
+        caption: March 2024
+        description: | # this will include new lines to allow paragraphs
+            Derhoticisation in Blackburn, Lancashire: Evidence from acoustic, auditory, and articulatory analyses
+
+      - layout: left
         sub_title: NWAV 51, Queens College, City University New York
         caption: October 2023
         description: | # this will include new lines to allow paragraphs
