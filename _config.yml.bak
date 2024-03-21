@@ -88,7 +88,7 @@ content:
         #quote: >
         #  Supervisors: [Dr Rachel Smith](https://www.gla.ac.uk/schools/critical/staff/rachelsmith/), [Professor Jane Stuart-Smith](https://www.gla.ac.uk/schools/critical/staff/janestuart-smith/)
         description: | # this will include new lines to allow paragraphs   # (http://theses.gla.ac.uk/74370/)
-          Thesis: [***Experience and Learning in Cross-dialect perception: Derhoticised /r/ in Glasgow***](papers/LennonPhD2017.pdf)
+          Thesis: [***Experience and Learning in Cross-dialect perception: Derhoticised /r/ in Glasgow***](papers/LennonPhD_2019.pdf)
 
       - layout: left
         title: MSc Linguistics
@@ -114,7 +114,15 @@ content:
     content:
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
-            Lennon, R. (accepted pending revisions). Perception of ambiguous rhoticity in Glasgow. *Journal of Phonetics*.
+            Lennon, R. (in press). Perception of ambiguous rhoticity in Glasgow. *Journal of Phonetics*.
+
+      - layout: left
+        description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
+            Nance, C. & Lennon, R. (in press). The Sociolinguistics of Approximants. In: *Approximants: Their Phonetics and Phonology*. Editor: Martin J. Ball (book chapter).
+
+      - layout: left
+        description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
+            Turton, D. & Lennon, R. (in prep). 4,000 /r/s in Blackburn, Lancashire: An ultrasound study of Anglo-English derhoticisation.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
@@ -123,14 +131,6 @@ content:
       #- layout: left
       #  description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
       #      Lennon, R. (in prep). Listener processing of fine phonetic detail in a familiar accent of English: Insights from mouse tracking.
-
-      - layout: left
-        description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
-            Turton, D. & Lennon, R. (in prep). 4,000 /r/s in Blackburn, Lancashire: An ultrasound study of Anglo-English derhoticisation.
-
-      - layout: left
-        description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
-            Nance, C. & Lennon, R. The Sociolinguistics of Approximants. In: *Approximants: Their Phonetics and Phonology*. Editor: Martin J. Ball (book chapter, to appear 2024).
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
