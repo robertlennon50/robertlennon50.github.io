@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Robert Lennon
-title: Linguistics Researcher
+title: Linguistics Researcher and Data Scientist
 #email: r.w.lennon@lancaster.ac.uk
 email: r.w.lennon@lancaster.ac.uk
 website: robertlennon50.github.io
@@ -114,7 +114,8 @@ content:
     content:
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
-            Lennon, R. (in press). Perception of ambiguous rhoticity in Glasgow. *Journal of Phonetics*.
+            Lennon, R. (2024). [Perception of ambiguous rhoticity in Glasgow.](https://doi.org/10.1016/j.wocn.2024.101312) 
+            *Journal of Phonetics 104,* 101312.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
