@@ -9,7 +9,8 @@ version: 2
 name: Robert Lennon
 title: Linguistics Researcher and Data Scientist
 #email: r.w.lennon@lancaster.ac.uk
-email: r.w.lennon@lancaster.ac.uk
+#email: robert.lennon@newcastle.ac.uk
+email: robertlennon50@gmail.com
 website: robertlennon50.github.io
 
 # Dark Mode (true/false/never)
@@ -50,11 +51,11 @@ additional_links:
 # ## removed from this section but keep for later: ", as well as a Linguistics Researcher at the [Phonetics Lab](http://wp.lancs.ac.uk/phonetics/) at [Lancaster University](https://www.research.lancs.ac.uk/portal/en/people/robert-lennon(22704958-6851-46a4-8a82-29a3ea2334ed).html)"
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a Senior Research Associate in Sociophonetics at [Lancaster University](https://www.lancaster.ac.uk/linguistics/about/people/robert-lennon). My research is in sociolinguistics, phonetics and speech perception, and I'm interested in the social aspects of speech communities, and the ways in which they affect how people produce, perceive, and learn speech sounds.
+  I'm a Research Associate in phonetics at Newcastle University. My research is in phonetics, speech perception, and sociolinguistics, and I'm interested in the social aspects of speech communities, and the ways in which they affect how people produce, perceive, and learn speech sounds.
   
-  My expertise is in Scottish and Northern English accents (especially phonetic variation in Glasgow), rhoticity, and cross-dialect perception, and I have also worked on perception of speech tempo and phonetic reduction.
+  My expertise is in Scottish and Northern English accents (especially phonetic variation in Glasgow), rhoticity, and cross-dialect perception, and I also work on perception of speech tempo, phonetic reduction, and the perception of word boundaries.
   
-  I am most skilled in: <mark>R</mark>, <mark>Research skills</mark>, <mark>Linguistics teaching</mark> and <mark>Data collection & manipulation</mark>.
+  I am most skilled in: <mark>R</mark>, <mark>Research skills</mark>, <mark>Data collection & manipulation</mark>, and <mark>Linguistics teaching</mark>.
 
 #Click [here](CV/Robert_Lennon_CV.pdf) for my CV.
 
@@ -84,7 +85,7 @@ content:
       - layout: left
         title: PhD Linguistics
         #caption: 2019
-        sub_title: University of Glasgow, 2019
+        sub_title: University of Glasgow, 2017
         #quote: >
         #  Supervisors: [Dr Rachel Smith](https://www.gla.ac.uk/schools/critical/staff/rachelsmith/), [Professor Jane Stuart-Smith](https://www.gla.ac.uk/schools/critical/staff/janestuart-smith/)
         description: | # this will include new lines to allow paragraphs   # (http://theses.gla.ac.uk/74370/)
@@ -146,8 +147,8 @@ content:
             Plug, L., Lennon, R. & Smith, R. (2022). Schwa deletion and perceived tempo in English. *Proceedings of the 11th International Conference on Speech Prosody*. Lisbon: Universidade de Lisboa.
 
       - layout: left
-        description: | # this will include new lines to allow paragraphs
-            Plug, L., Lennon, R. & Gold, E. (2021). [Articulation rates' inter-correlations and discriminating powers in an English speech corpus.](papers/PlugLennonGold2021.pdf) *Speech Communication 132,* 40-54. #https://doi.org/10.1016/j.specom.2021.05.006
+        description: | # this will include new lines to allow paragraphs # https://doi.org/10.1016/j.specom.2021.05.006
+            Plug, L., Lennon, R. & Gold, E. (2021). [Articulation rates' inter-correlations and discriminating powers in an English speech corpus.](papers/PlugLennonGold2021.pdf) *Speech Communication 132,* 40-54.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://eprints.whiterose.ac.uk/159167/1/SpeechProsody_4.pdf)
