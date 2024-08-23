@@ -146,8 +146,8 @@ content:
             Plug, L., Lennon, R. & Smith, R. (2022). Schwa deletion and perceived tempo in English. *Proceedings of the 11th International Conference on Speech Prosody*. Lisbon: Universidade de Lisboa.
 
       - layout: left
-        description: | # this will include new lines to allow paragraphs
-            Plug, L., Lennon, R. & Gold, E. (2021). [Articulation rates' inter-correlations and discriminating powers in an English speech corpus.](papers/PlugLennonGold2021.pdf) *Speech Communication 132,* 40-54. #https://doi.org/10.1016/j.specom.2021.05.006
+        description: | # this will include new lines to allow paragraphs # https://doi.org/10.1016/j.specom.2021.05.006
+            Plug, L., Lennon, R. & Gold, E. (2021). [Articulation rates' inter-correlations and discriminating powers in an English speech corpus.](papers/PlugLennonGold2021.pdf) *Speech Communication 132,* 40-54.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://eprints.whiterose.ac.uk/159167/1/SpeechProsody_4.pdf)
