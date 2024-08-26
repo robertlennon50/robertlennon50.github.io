@@ -175,7 +175,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Senior Research Associate
+        title: Research Associate
+        sub_title: Newcastle University
+        caption: 2024 - present
+        description: | # this will include new lines to allow paragraphs
+            ***Predicting the timing of talking: How do speaker and listener factors boost effective conversational timing for communicative goals?***
+            
+            In this project we are using experimental methods to examine how, in spoken interactions, listeners make predictions about speech timing to facilitate both their comprehension and their coordination of turn-taking.
+
+      - layout: left
+        title: Research Associate
         sub_title: Lancaster University
         caption: 2020 - 2024
         description: | # this will include new lines to allow paragraphs
