@@ -110,6 +110,57 @@ content:
           Dissertation: ***A real-time sociophonetic study of postvocalic /r/ in the speech of schoolchildren in Bearsden***
 
 
+
+
+  - title: Employment # Title for the section # Research Experience
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Research Associate
+        sub_title: Newcastle University
+        caption: 2024 - present
+        description: | # this will include new lines to allow paragraphs
+            ***Predicting the timing of talking: How do speaker and listener factors boost effective conversational timing for communicative goals?***
+            
+            In this project we are using experimental methods to examine how, in spoken interactions, listeners make predictions about speech timing to facilitate both their comprehension and their coordination of turn-taking.
+
+      - layout: left
+        title: Research Associate
+        sub_title: Lancaster University
+        caption: 2020 - 2024
+        description: | # this will include new lines to allow paragraphs
+            ***Changing /r/ accents? Towards a sociophonological understanding of sound change***
+            
+            We are using a variety of methods to investigate residual rhoticity in Blackburn, Lancashire (where many speakers still pronounce the /r/ in words like *car* and *third*), examining the mechanisms by which it is changing over time.
+
+      - layout: left
+        title: Lecturer in Phonetics and Sociolinguistics
+        sub_title: University of Glasgow
+        caption: 2021 - 2022
+        description: | # this will include new lines to allow paragraphs
+            ***English Language and Linguistics***
+            
+            I delivered teaching, supervision and assessment on theoretical, instrumental and articulatory Phonetics (segmental and prosodic approaches), variationist Sociolinguistics, and general linguistics at all levels from Level 1 to PGT. I was course convenor for both Honours and PGT Sociolinguistics courses, and I was the Level 2 year group convenor for the linguistics department.
+
+      - layout: left
+        title: Research Fellow
+        sub_title: University of Leeds
+        caption: 2017 - 2020
+        description: | # this will include new lines to allow paragraphs
+            ***Speech tempo perception and missing sounds***
+            
+            In this project we investigated the link between laboratory measurements of speech tempo and how listeners perceive speaking rate. I designed and ran a suite of speech perception experiments, maintained a large phonetically-aligned corpus, and contributed to analysis, conference presentations and journal submissions.
+
+      - layout: left
+        title: Research Assistant
+        sub_title: University of Glasgow
+        caption: 2012 - 2017
+        description: | # this will include new lines to allow paragraphs
+            While completing my Phd I worked on multiple funded projects run by researchers from different universities. Tasks included:
+            - Statistical analysis, transcription work
+            - Writing contributions to research outputs
+            - Participant recruitment and recording
+
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -169,56 +220,6 @@ content:
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS1028.pdf)
             Stuart-Smith, J., Lennon, R., MacDonald, R., Robertson, D., Soskuthy, M., Jose, B. & Evers, L. (2015). [A dynamic acoustic view of real-time change in word-final liquids in spontaneous Glaswegian.](papers/DynamicLiquidsICPhS2015.pdf) *Proceedings of the 18th ICPhS*. Glasgow: University of Glasgow.
-
-
-  - title: Employment # Title for the section # Research Experience
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Research Associate
-        sub_title: Newcastle University
-        caption: 2024 - present
-        description: | # this will include new lines to allow paragraphs
-            ***Predicting the timing of talking: How do speaker and listener factors boost effective conversational timing for communicative goals?***
-            
-            In this project we are using experimental methods to examine how, in spoken interactions, listeners make predictions about speech timing to facilitate both their comprehension and their coordination of turn-taking.
-
-      - layout: left
-        title: Research Associate
-        sub_title: Lancaster University
-        caption: 2020 - 2024
-        description: | # this will include new lines to allow paragraphs
-            ***Changing /r/ accents? Towards a sociophonological understanding of sound change***
-            
-            We are using a variety of methods to investigate residual rhoticity in Blackburn, Lancashire (where many speakers still pronounce the /r/ in words like *car* and *third*), examining the mechanisms by which it is changing over time.
-
-      - layout: left
-        title: Lecturer in Phonetics and Sociolinguistics
-        sub_title: University of Glasgow
-        caption: 2021 - 2022
-        description: | # this will include new lines to allow paragraphs
-            ***English Language and Linguistics***
-            
-            I delivered teaching, supervision and assessment on theoretical, instrumental and articulatory Phonetics (segmental and prosodic approaches), variationist Sociolinguistics, and general linguistics at all levels from Level 1 to PGT. I was course convenor for both Honours and PGT Sociolinguistics courses, and I was the Level 2 year group convenor for the linguistics department.
-
-      - layout: left
-        title: Research Fellow
-        sub_title: University of Leeds
-        caption: 2017 - 2020
-        description: | # this will include new lines to allow paragraphs
-            ***Speech tempo perception and missing sounds***
-            
-            In this project we investigated the link between laboratory measurements of speech tempo and how listeners perceive speaking rate. I designed and ran a suite of speech perception experiments, maintained a large phonetically-aligned corpus, and contributed to analysis, conference presentations and journal submissions.
-
-      - layout: left
-        title: Research Assistant
-        sub_title: University of Glasgow
-        caption: 2012 - 2017
-        description: | # this will include new lines to allow paragraphs
-            While completing my Phd I worked on multiple funded projects run by researchers from different universities. Tasks included:
-            - Statistical analysis, transcription work
-            - Writing contributions to research outputs
-            - Participant recruitment and recording
 
 
   - title: Selected talks # Title for the section
