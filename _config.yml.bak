@@ -51,9 +51,9 @@ additional_links:
 # ## removed from this section but keep for later: ", as well as a Linguistics Researcher at the [Phonetics Lab](http://wp.lancs.ac.uk/phonetics/) at [Lancaster University](https://www.research.lancs.ac.uk/portal/en/people/robert-lennon(22704958-6851-46a4-8a82-29a3ea2334ed).html)"
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a Research Associate in phonetics at Newcastle University. My research is in phonetics, speech perception, and sociolinguistics, and I'm interested in the social aspects of speech communities, and the ways in which they affect how people produce, perceive, and learn speech sounds.
+  I no longer work in academia, but until 2025 I was a Research Associate in phonetics at Newcastle University. My research is in phonetics, speech perception, and sociolinguistics, and I'm interested in the social aspects of speech communities, and the ways in which they affect how people produce, perceive, and learn speech sounds.
   
-  My expertise is in Scottish and Northern English accents (especially phonetic variation in Glasgow), rhoticity, and cross-dialect perception, and I also work on perception of speech tempo, phonetic reduction, and the perception of word boundaries.
+  My expertise is in Scottish and Northern English accents (especially phonetic variation in Glasgow), rhoticity, and cross-dialect perception, and I also worked on perception of speech tempo, phonetic reduction, and the perception of word boundaries.
   
   I am most skilled in: <mark>R</mark>, <mark>Excel</mark>, <mark>Research skills</mark>, <mark>Data collection, manipulation & analysis</mark>, <mark>Scientific writing</mark>, and <mark>Linguistics teaching</mark>.
 
@@ -118,7 +118,7 @@ content:
       - layout: left
         title: Research Associate
         sub_title: Newcastle University
-        caption: 2024 - present
+        caption: 2024 - 2025
         description: | # this will include new lines to allow paragraphs
             ***Predicting the timing of talking: How do speaker and listener factors boost effective conversational timing for communicative goals?***
             
