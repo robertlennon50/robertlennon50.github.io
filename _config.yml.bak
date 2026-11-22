@@ -122,7 +122,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             ***Predicting the timing of talking: How do speaker and listener factors boost effective conversational timing for communicative goals?***
             
-            In this project we are using experimental methods to examine how, in spoken interactions, listeners make predictions about speech timing to facilitate both their comprehension and their coordination of turn-taking.
+            In this project we used experimental methods to examine how, in spoken interactions, listeners make predictions about speech timing to facilitate both their comprehension and their coordination of turn-taking.
 
       - layout: left
         title: Research Associate
@@ -131,7 +131,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             ***Changing /r/ accents? Towards a sociophonological understanding of sound change***
             
-            We are using a variety of methods to investigate residual rhoticity in Blackburn, Lancashire (where many speakers still pronounce the /r/ in words like *car* and *third*), examining the mechanisms by which it is changing over time.
+            We used a variety of methods to investigate residual rhoticity in Blackburn, Lancashire (where many speakers still pronounce the /r/ in words like *car* and *third*), examining the mechanisms by which it is changing over time.
 
       - layout: left
         title: Lecturer in Phonetics and Sociolinguistics
