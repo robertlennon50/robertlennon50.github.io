@@ -166,16 +166,21 @@ content:
     content:
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
+            Turton, D. & Lennon, R. (2026). [Rhoticity in Decline? An Ultrasound Study of Lancashire /r/](https://doi.org/10.1177/00238309261478619) 
+            *Language and Speech*.
+
+      - layout: left
+        description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
+            Nance, C. & Lennon, R. (2026). The Sociolinguistics of Approximants. In: *Approximants: Their Phonetics and Phonology*. Editor: Martin J. Ball (book chapter).
+
+      - layout: left
+        description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
             Lennon, R. (2024). [Perception of ambiguous rhoticity in Glasgow.](https://doi.org/10.1016/j.wocn.2024.101312) 
             *Journal of Phonetics 104,* 101312.
 
-      - layout: left
-        description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
-            Nance, C. & Lennon, R. (in press). The Sociolinguistics of Approximants. In: *Approximants: Their Phonetics and Phonology*. Editor: Martin J. Ball (book chapter).
-
-      - layout: left
-        description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
-            Turton, D. & Lennon, R. (in prep). 4,000 /r/s in Blackburn, Lancashire: An ultrasound study of Anglo-English derhoticisation.
+      #- layout: left
+      #  description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
+      #      Turton, D. & Lennon, R. (in prep). 4,000 /r/s in Blackburn, Lancashire: An ultrasound study of Anglo-English derhoticisation.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs  # (http://xxxxxxxxxxx)
